@@ -1,5 +1,3 @@
-# salesine
-
 ## Project setup
 ```
 npm install
